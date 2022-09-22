@@ -6,6 +6,7 @@
 
 html {
   font-family: 'Open Sans', sans-serif;
+  background: #eaece5;
 }
 
 .container {
@@ -13,17 +14,8 @@ html {
   margin-right: auto;
   margin-left: auto;
 }
-
-header {
+h1{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin-top: 4rem;
-}
+  justify-content: center;
 
-.logo {
-  width: 10rem;
-  height: 10rem;
-  background-image: url(./img/rocket.svg);
-  background-size: contain;
 }
