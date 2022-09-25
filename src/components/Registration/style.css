@@ -4,7 +4,7 @@ form {
     flex-direction: column;
     align-items: center;
     border: solid 1px lightgrey;
-    border-radius: 8px;
+    border-radius: 20px;
     background: white;
     padding: 80px;
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
